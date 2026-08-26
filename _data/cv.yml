@@ -3,7 +3,7 @@ cv:
   label: Machine Learning Researcher & Engineer
   email: absarshayaan@gmail.com
   location: Edinburgh, UK
-  summary: Penultimate-year BSc (Hons) Artificial Intelligence and Computer Science student at the University of Edinburgh with a First Class Honours track record (84–86% average). Experienced in multilingual natural language processing, low-resource NLP architectures, LLM evaluation & calibration, and full-stack software development.
+  summary: Penultimate-year BSc (Hons) Artificial Intelligence and Computer Science student at the University of Edinburgh on track for First Class Honours. Experienced in multilingual natural language processing, low-resource NLP architectures, LLM evaluation & calibration, and full-stack software development.
 
   social_networks:
     - network: GitHub
@@ -20,9 +20,8 @@ cv:
         start_date: 2024
         end_date: 2028
         highlights:
-          - "Academic Standing: On track for First Class Honours (84–86% average across mandatory courses)."
-          - "Mathematics & Theory: Discrete Mathematics & Probability (92%), Linear Algebra (92%), Calculus (90%), Reasoning and Agents (90%)."
-          - "Computer Science: Algorithms & Data Structures (80%), Foundations of Data Science (80%), Software Engineering, Object-Oriented Programming, Functional Programming, Computational Logic, Computer Systems."
+          - "Academic Standing: On track for First Class Honours."
+          - "Core Coursework: Discrete Mathematics & Probability, Linear Algebra, Calculus, Reasoning and Agents, Algorithms & Data Structures, Foundations of Data Science, Software Engineering, Object-Oriented Programming, Functional Programming, Computational Logic, Computer Systems."
 
       - institution: The Manchester Grammar School
         location: Manchester, UK
@@ -30,8 +29,8 @@ cv:
         start_date: 2017
         end_date: 2024
         highlights:
-          - "A-Levels: 4 A* grades in Mathematics, Further Mathematics, Computer Science, and German."
-          - "GCSEs: 10 Grade 9s including Mathematics, Further Mathematics, and English Language."
+          - "A-Levels: Mathematics, Further Mathematics, Computer Science, German."
+          - "GCSEs: 10 subjects including Mathematics, Further Mathematics, English Language."
           - "Published sole-authored peer-reviewed NLP research at age 17 (NLP4TIA 2023)."
 
     Experience:
@@ -40,7 +39,7 @@ cv:
         location: Edinburgh, UK
         start_date: 2026-06
         end_date: 2026-08
-        summary: Ten-week research placement funded by the Engineering and Physical Sciences Research Council (EPSRC). Supervised by Prof. Oisin Mac Aodha, in collaboration with researchers from Google DeepMind, Cambridge, and EPFL.
+        summary: Ten-week research placement funded by the Engineering and Physical Sciences Research Council (EPSRC) at the University of Edinburgh, supervised by Prof. Oisin Mac Aodha.
         highlights:
           - Built the project's evaluation pipeline in Python covering data ingestion, feature engineering, scikit-learn baselines, and batched inference across three commercial LLMs over a dataset of 7,334 ecological records.
           - Benchmarked models against statistical and heuristic baselines, with the strongest model reaching 63.3% accuracy against a best baseline of 58.0%.

@@ -27,8 +27,8 @@ latest_posts:
   <div class="col-md-4 mb-2">
     <div class="p-3 rounded h-100" style="border: 1px solid var(--global-divider-color); background: var(--global-card-bg-color, rgba(0,0,0,0.02));">
       <div style="font-size: 1.5rem; margin-bottom: 0.25rem;">🎓</div>
-      <strong style="font-size: 0.95rem;">First Class Honours</strong>
-      <div style="font-size: 0.85rem; color: var(--global-text-color-light);">84–86% Academic Average</div>
+      <strong style="font-size: 0.95rem;">BSc (Hons) AI &amp; CS</strong>
+      <div style="font-size: 0.85rem; color: var(--global-text-color-light);">First Class Honours Track</div>
     </div>
   </div>
   <div class="col-md-4 mb-2">
@@ -41,8 +41,8 @@ latest_posts:
   <div class="col-md-4 mb-2">
     <div class="p-3 rounded h-100" style="border: 1px solid var(--global-divider-color); background: var(--global-card-bg-color, rgba(0,0,0,0.02));">
       <div style="font-size: 1.5rem; margin-bottom: 0.25rem;">🔬</div>
-      <strong style="font-size: 0.95rem;">EPSRC Fellow</strong>
-      <div style="font-size: 0.85rem; color: var(--global-text-color-light);">Edinburgh / DeepMind / Cambridge</div>
+      <strong style="font-size: 0.95rem;">EPSRC Intern</strong>
+      <div style="font-size: 0.85rem; color: var(--global-text-color-light);">University of Edinburgh</div>
     </div>
   </div>
 </div>
@@ -67,7 +67,7 @@ latest_posts:
 
 ### <i class="fa-solid fa-star" style="margin-right: 0.4rem; color: var(--global-theme-color);"></i> Key Highlights
 
-- **EPSRC Undergraduate Research Placement** (Summer 2026) — Funded by the **Engineering and Physical Sciences Research Council (EPSRC)** at the University of Edinburgh; supervised by Prof. Oisin Mac Aodha in collaboration with researchers from **Google DeepMind**, **Cambridge**, and **EPFL**.
+- **EPSRC Undergraduate Research Intern** (Summer 2026) — Ten-week research placement funded by the **Engineering and Physical Sciences Research Council (EPSRC)** at the University of Edinburgh; supervised by Prof. Oisin Mac Aodha on model evaluation and calibration.
 - **ACL Workshop Author** — Authored research on code-switched POS tagging (RESOURCEFUL-2025) and cross-lingual idiom clustering (NLP4TIA-2023).
 - **NLP Lead** (2024–Present) — [EdinburghAI](https://edinburghai.org/) (500+ student members), leading hands-on technical workshops and applied machine learning projects.
 - **NLP Research Assistant** (2025) — University of Edinburgh Business School, developing semantic NLP classification pipelines across corporate earnings transcripts.
