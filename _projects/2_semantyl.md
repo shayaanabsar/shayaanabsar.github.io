@@ -4,7 +4,14 @@ title: "Semantyl: Document Q&A System"
 description: Full-stack Retrieval-Augmented Generation (RAG) platform with multi-format ingestion and real-time query answering.
 importance: 2
 category: engineering
+github: https://github.com/shayaanabsar/Semantyl
 ---
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center mb-4">
+  <a href="https://github.com/shayaanabsar/Semantyl" target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid var(--global-divider-color);">
+    <i class="fa-brands fa-github"></i> View on GitHub
+  </a>
+</div>
 
 **Semantyl** is an end-to-end Retrieval-Augmented Generation (RAG) system engineered for high-precision question answering across complex heterogeneous document collections.
 

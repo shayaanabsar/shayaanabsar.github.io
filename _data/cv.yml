@@ -1,10 +1,9 @@
 cv:
   name: Shayaan Absar
-  label: AI & Machine Learning Researcher
+  label: Machine Learning Researcher & Engineer
   email: absarshayaan@gmail.com
   location: Edinburgh, UK
-  image: ""
-  summary: Penultimate-year Artificial Intelligence and Computer Science undergraduate at the University of Edinburgh with a First Class Honours track record (84-86% average). Experienced in multilingual natural language processing, LLM evaluation & calibration, and full-stack software development.
+  summary: Penultimate-year BSc (Hons) Artificial Intelligence and Computer Science student at the University of Edinburgh with a First Class Honours track record (84–86% average). Experienced in multilingual natural language processing, low-resource NLP architectures, LLM evaluation & calibration, and full-stack software development.
 
   social_networks:
     - network: GitHub
@@ -16,94 +15,155 @@ cv:
     Education:
       - institution: University of Edinburgh
         location: Edinburgh, UK
-        area: Artificial Intelligence and Computer Science
-        studyType: BSc (Hons)
+        area: School of Informatics
+        studyType: BSc (Hons) Artificial Intelligence and Computer Science
         start_date: 2024
         end_date: 2028
-        score: First Class Honours (84% Average)
         highlights:
-          - "Coursework: Discrete Mathematics & Probability (92%), Linear Algebra (92%), Calculus (90%), Reasoning and Agents (90%), Algorithms and Data Structures (80%), Foundations of Data Science (80%)."
-          - "Further topics: Software Engineering, OOP, Functional Programming, Computational Logic, Computer Systems."
+          - "Academic Standing: On track for First Class Honours (84–86% average across mandatory courses)."
+          - "Mathematics & Theory: Discrete Mathematics & Probability (92%), Linear Algebra (92%), Calculus (90%), Reasoning and Agents (90%)."
+          - "Computer Science: Algorithms & Data Structures (80%), Foundations of Data Science (80%), Software Engineering, Object-Oriented Programming, Functional Programming, Computational Logic, Computer Systems."
+
       - institution: The Manchester Grammar School
         location: Manchester, UK
         studyType: A-Levels & GCSEs
         start_date: 2017
         end_date: 2024
         highlights:
-          - "A-Levels: 4 A* in Mathematics, Further Mathematics, Computer Science, and German."
-          - "GCSEs: 10 grade 9s including Mathematics, Further Mathematics, and English Language."
+          - "A-Levels: 4 A* grades in Mathematics, Further Mathematics, Computer Science, and German."
+          - "GCSEs: 10 Grade 9s including Mathematics, Further Mathematics, and English Language."
+          - "Published sole-authored peer-reviewed NLP research at age 17 (NLP4TIA 2023)."
 
-    Research Experience:
+    Experience:
       - company: University of Edinburgh
-        position: Undergraduate Research Intern
+        position: Undergraduate Research Intern (EPSRC)
         location: Edinburgh, UK
         start_date: 2026-06
         end_date: 2026-08
-        summary: Ten-week research placement funded by the Engineering and Physical Sciences Research Council (EPSRC). Supervised by Prof. Oisin Mac Aodha, with collaborators at Google DeepMind, Cambridge, and EPFL.
+        summary: Ten-week research placement funded by the Engineering and Physical Sciences Research Council (EPSRC). Supervised by Prof. Oisin Mac Aodha, in collaboration with researchers from Google DeepMind, Cambridge, and EPFL.
         highlights:
-          - Built the project's evaluation pipeline in Python, covering data ingestion in R, feature engineering, scikit-learn baselines, and batched inference across three commercial LLMs over 7,334 ecological records.
-          - Benchmarked models against statistical and heuristic baselines, with the top model reaching 63.3% accuracy vs. 58.0% best baseline.
-          - Demonstrated that chain-of-thought prompting did not consistently improve accuracy on the task and that its benefit lay in calibration rather than decisions.
+          - Built the project's evaluation pipeline in Python covering data ingestion, feature engineering, scikit-learn baselines, and batched inference across three commercial LLMs over a dataset of 7,334 ecological records.
+          - Benchmarked models against statistical and heuristic baselines, with the strongest model reaching 63.3% accuracy against a best baseline of 58.0%.
+          - Demonstrated that chain-of-thought prompting improved model calibration rather than raw decision accuracy.
           - Designed a configuration-driven sweep harness to vary models, prompting conditions, and baselines against held-out splits with cached inference.
-      - company: University of Edinburgh Business School
-        position: Research Assistant in Natural Language Processing
-        location: Edinburgh, UK
-        start_date: 2025-01
-        end_date: 2025-04
-        summary: Scalable NLP pipeline analyzing climate-related disclosure across corporate conference call transcripts.
-        highlights:
-          - Built an NLP pipeline analyzing climate-related language across 250+ corporate earnings call transcripts.
-          - Extended Sauttner et al. (2023) methodology for climate bigram identification using transformer models.
-          - Trained and evaluated classification models (Naïve Bayes, Random Forest, Logistic Regression) for thematic detection.
 
-    Industry Experience:
       - company: JPMorgan Chase & Co.
         position: Software Engineering Spring Intern
         location: Glasgow, UK
         start_date: 2026-04
         end_date: 2026-04
-        summary: Selected for the highly competitive Spring Into Software Engineering program.
+        summary: Selected for the competitive Spring Into Software Engineering programme.
         highlights:
-          - Built a fire safety prediction system for the National Fire Chiefs Council during the Code for Good hackathon under strict deadlines.
-          - Trained in Agile and Scrum delivery frameworks.
+          - Built a predictive fire safety system for the National Fire Chiefs Council during the Code for Good hackathon under strict delivery constraints.
+          - Trained in Agile and Scrum software engineering methodologies.
 
-    Projects:
-      - title: Papers-to-Podcasts
-        summary: Multi-stage pipeline converting academic papers into conversational audio using LLM orchestration, FAISS semantic search, and neural text-to-speech. Processes 10–30 page documents in under 5 minutes; deployed on Streamlit Cloud.
-      - title: Semantyl
-        summary: End-to-end retrieval-augmented generation (RAG) system with LangChain, Hugging Face embeddings, and vector similarity search across PDF, DOCX, and TXT documents.
-      - title: Byte-Level Morphological Inflection for Endangered Languages
-        summary: ByT5 framework incorporating cross-lingual transfer (Spanish→Quechua, Finnish→Northern Sámi, Turkish→Crimean Tatar) introducing the Lemma Masking Hypothesis for morphological generation in under-resourced languages.
-      - title: PyTorch GPT from Scratch
-        summary: Character-level generative pretrained transformer built from scratch in PyTorch featuring multi-head self-attention, positional encoding, and learning rate scheduling with gradient accumulation.
-      - title: Neural Machine Translation System
-        summary: Sequence-to-sequence transformer with custom attention mechanism and beam search decoding for English–Cherokee translation.
+      - company: University of Edinburgh Business School
+        position: Research Assistant in Natural Language Processing
+        location: Edinburgh, UK
+        start_date: 2025-01
+        end_date: 2025-04
+        summary: Scalable NLP pipeline analyzing climate-related content across corporate disclosures.
+        highlights:
+          - Built an NLP pipeline analyzing climate-related disclosures across 250+ corporate earnings call transcripts.
+          - Extended Sauttner et al. (2023) methodology for climate bigram identification using transformer-based models.
+          - Trained and evaluated classification models (Naïve Bayes, Random Forest, Logistic Regression) for thematic detection.
 
-    Skills:
-      - title: Languages
-        highlights:
-          - Python, Java, C++, JavaScript, SQL, Haskell
-      - title: Machine Learning & NLP
-        highlights:
-          - PyTorch, Hugging Face Transformers, scikit-learn, LangChain, FAISS, RAG, Fine-Tuning, Model Calibration
-      - title: Software Engineering & Tools
-        highlights:
-          - Data Structures & Algorithms, OOP, REST APIs, Git, React, Streamlit, Linux
-      - title: Spoken Languages
-        highlights:
-          - English (Native), German (Proficient), Hindi (Conversational)
-
-    Leadership & Activities:
-      - company: EdinburghAI (University AI Society, 500+ members)
+    Volunteer:
+      - company: EdinburghAI
         position: NLP Lead & Committee Member
         location: Edinburgh, UK
         start_date: 2024-07
         end_date: Present
+        summary: University AI Society with 500+ student members.
         highlights:
-          - Organize technical workshops on machine learning, NLP, and software development for a 500+ member society.
+          - Organize and lead technical workshops on machine learning and natural language processing.
           - Coordinate hands-on collaborative coding projects helping members build practical ML applications.
+
       - company: School of Informatics Rugby
         position: Diversity Officer
         location: Edinburgh, UK
-        start_date: 2026
+        start_date: 2026-01
         end_date: Present
+        highlights:
+          - Support club welfare, inclusivity initiatives, and team representation across the university.
+
+    Projects:
+      - name: Papers-to-Podcasts
+        url: https://github.com/shayaanabsar/papers-to-podcasts
+        start_date: 2025
+        summary: Multi-stage pipeline converting scientific papers into conversational audio using LLM orchestration, FAISS semantic search, and neural text-to-speech.
+        highlights:
+          - Deployed on Streamlit Cloud with real-time audio playback and optimized caching.
+          - Ingests and processes 10–30 page complex research PDFs in under five minutes.
+
+      - name: "Semantyl: Document Q&A System"
+        url: https://github.com/shayaanabsar/Semantyl
+        start_date: 2025
+        summary: End-to-end retrieval-augmented generation (RAG) platform with multi-format ingestion and real-time query answering.
+        highlights:
+          - Built using LangChain, Hugging Face dense embeddings, and vector similarity search across PDF, DOCX, and TXT documents.
+          - Features conversational retrieval chains, context compression, and source citation tracking.
+
+      - name: Morphological Inflection for Endangered Languages
+        url: https://github.com/shayaanabsar/code-switched-pos-tagging
+        start_date: 2025
+        summary: Byte-level ByT5 framework incorporating cross-lingual transfer for low-resource morphological generation.
+        highlights:
+          - Outperforms subword tokenizers on polysynthetic and agglutinative languages (Quechua, Northern Sámi, Crimean Tatar).
+          - Introduced the Lemma Masking Hypothesis explaining why masked language modeling improves morphological generation.
+
+      - name: PyTorch GPT from Scratch
+        url: https://github.com/shayaanabsar/gpt
+        start_date: 2024
+        summary: Complete implementation of a decoder-only transformer architecture in pure PyTorch.
+        highlights:
+          - Implemented multi-head causal self-attention, learned positional encodings, and Pre-LN blocks from primitives.
+          - Full training loop with gradient accumulation, cosine annealing scheduling, and top-k/nucleus sampling.
+
+      - name: Neural Machine Translation System
+        url: https://github.com/shayaanabsar/ch-en-nmt
+        start_date: 2024
+        summary: Sequence-to-sequence transformer with custom attention mechanisms and beam search decoding for English–Cherokee translation.
+        highlights:
+          - Custom tokenization and vocabulary construction handling indigenous language morpheme-level representations.
+
+    Skills:
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords:
+          - Python
+          - Java
+          - C++
+          - JavaScript
+          - SQL
+          - Haskell
+
+      - name: Machine Learning & NLP
+        icon: fa-solid fa-brain
+        keywords:
+          - PyTorch
+          - Hugging Face Transformers
+          - scikit-learn
+          - LangChain
+          - FAISS
+          - Model Fine-Tuning
+          - RAG Systems
+          - Model Calibration
+
+      - name: Software Engineering & Tools
+        icon: fa-solid fa-gear
+        keywords:
+          - Git
+          - RESTful APIs
+          - Streamlit
+          - React
+          - Linux
+          - CI/CD
+
+    Languages:
+      - name: English
+        summary: Native
+      - name: German
+        summary: Proficient
+      - name: Hindi
+        summary: Conversational

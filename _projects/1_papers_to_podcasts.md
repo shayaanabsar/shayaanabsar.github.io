@@ -4,7 +4,14 @@ title: Papers-to-Podcasts
 description: Multi-stage pipeline converting complex academic papers into conversational audio using LLM orchestration, semantic search, and neural TTS.
 importance: 1
 category: engineering
+github: https://github.com/shayaanabsar/papers-to-podcasts
 ---
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center mb-4">
+  <a href="https://github.com/shayaanabsar/papers-to-podcasts" target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid var(--global-divider-color);">
+    <i class="fa-brands fa-github"></i> View on GitHub
+  </a>
+</div>
 
 **Papers-to-Podcasts** is an end-to-end pipeline that ingests academic papers (PDFs) and synthesizes engaging, multi-speaker conversational audio summaries.
 
