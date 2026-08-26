@@ -67,7 +67,7 @@ latest_posts:
 
 ### <i class="fa-solid fa-star" style="margin-right: 0.4rem; color: var(--global-theme-color);"></i> Key Highlights
 
-- **EPSRC Undergraduate Research Intern** (Summer 2026) — Ten-week research placement funded by the **Engineering and Physical Sciences Research Council (EPSRC)** at the University of Edinburgh; supervised by Prof. Oisin Mac Aodha on model evaluation and calibration.
+- **EPSRC Undergraduate Research Placement** (Summer 2026) — Funded by the **Engineering and Physical Sciences Research Council (EPSRC)** at the University of Edinburgh; supervised by Prof. Oisin Mac Aodha in collaboration with researchers from **Google DeepMind**, **Cambridge**, and **EPFL**.
 - **ACL Workshop Author** — Authored research on code-switched POS tagging (RESOURCEFUL-2025) and cross-lingual idiom clustering (NLP4TIA-2023).
 - **NLP Lead** (2024–Present) — [EdinburghAI](https://edinburghai.org/) (500+ student members), leading hands-on technical workshops and applied machine learning projects.
 - **NLP Research Assistant** (2025) — University of Edinburgh Business School, developing semantic NLP classification pipelines across corporate earnings transcripts.

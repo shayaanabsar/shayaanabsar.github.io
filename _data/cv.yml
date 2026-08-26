@@ -39,7 +39,7 @@ cv:
         location: Edinburgh, UK
         start_date: 2026-06
         end_date: 2026-08
-        summary: Ten-week research placement funded by the Engineering and Physical Sciences Research Council (EPSRC) at the University of Edinburgh, supervised by Prof. Oisin Mac Aodha.
+        summary: Ten-week research placement funded by the Engineering and Physical Sciences Research Council (EPSRC). Supervised by Prof. Oisin Mac Aodha, in collaboration with researchers from Google DeepMind, Cambridge, and EPFL.
         highlights:
           - Built the project's evaluation pipeline in Python covering data ingestion, feature engineering, scikit-learn baselines, and batched inference across three commercial LLMs over a dataset of 7,334 ecological records.
           - Benchmarked models against statistical and heuristic baselines, with the strongest model reaching 63.3% accuracy against a best baseline of 58.0%.
