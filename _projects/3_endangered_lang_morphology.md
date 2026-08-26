@@ -10,7 +10,7 @@ This research introduces a novel byte-level framework for morphological inflecti
 
 ### Core Contributions
 
-* **Byte-Level Architecture**: Leverages **ByT5** to bypass the subword tokenization bottleneck common to polysynthetic and agglutinative low-resource languages, operating directly on raw bytes to prevent out-of-vocabulary degradation.
-* **Three-Phase Cross-Lingual Transfer**: Implements a progressive training regimen transferring morphological inductive biases from high-resource typologically related languages to low-resource targets (evaluating Spanish→Quechua, Finnish→Northern Sámi, and Turkish→Crimean Tatar).
-* **Lemma Masking Hypothesis**: Proposes a theoretical and empirical formulation explaining why masked language modeling targets over lemma stems substantially improve generative accuracy in downstream inflection tasks.
-* **Impact**: Contributes computational tools and methodologies designed to aid language documentation, revitalization, and digital preservation efforts.
+- **Byte-Level Architecture**: Leverages **ByT5** to bypass the subword tokenization bottleneck common to polysynthetic and agglutinative low-resource languages, operating directly on raw bytes to prevent out-of-vocabulary degradation.
+- **Three-Phase Cross-Lingual Transfer**: Implements a progressive training regimen transferring morphological inductive biases from high-resource typologically related languages to low-resource targets (evaluating Spanish→Quechua, Finnish→Northern Sámi, and Turkish→Crimean Tatar).
+- **Lemma Masking Hypothesis**: Proposes a theoretical and empirical formulation explaining why masked language modeling targets over lemma stems substantially improve generative accuracy in downstream inflection tasks.
+- **Impact**: Contributes computational tools and methodologies designed to aid language documentation, revitalization, and digital preservation efforts.

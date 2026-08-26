@@ -10,6 +10,6 @@ An educational yet robust from-scratch implementation of an autoregressive Trans
 
 ### Key Components
 
-* **Architecture**: Implemented multi-head causal self-attention, scaled dot-product attention, learnable positional embeddings, layer normalization (Pre-LN), and feed-forward projection sublayers from mathematical primitives.
-* **Optimization & Training Pipeline**: Configured training routines featuring gradient accumulation, cosine annealing learning rate schedules with warm-up, weight decay filtering (excluding biases and 1D normalization tensors), and mixed-precision execution.
-* **Text Generation**: Includes greedy decoding and top-$k$ / nucleus ($p$) sampling strategies with temperature control.
+- **Architecture**: Implemented multi-head causal self-attention, scaled dot-product attention, learnable positional embeddings, layer normalization (Pre-LN), and feed-forward projection sublayers from mathematical primitives.
+- **Optimization & Training Pipeline**: Configured training routines featuring gradient accumulation, cosine annealing learning rate schedules with warm-up, weight decay filtering (excluding biases and 1D normalization tensors), and mixed-precision execution.
+- **Text Generation**: Includes greedy decoding and top-$k$ / nucleus ($p$) sampling strategies with temperature control.
