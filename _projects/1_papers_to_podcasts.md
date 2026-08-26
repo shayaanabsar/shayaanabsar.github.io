@@ -2,14 +2,22 @@
 layout: page
 title: Papers-to-Podcasts
 description: Multi-stage pipeline converting complex academic papers into conversational audio using LLM orchestration, semantic search, and neural TTS.
+img: assets/img/project_papers_to_podcasts.svg
 importance: 1
 category: engineering
 github: https://github.com/shayaanabsar/papers-to-podcasts
 ---
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center mb-4">
-  <a href="https://github.com/shayaanabsar/papers-to-podcasts" target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid var(--global-divider-color);">
-    <i class="fa-brands fa-github"></i> View on GitHub
+  <div class="project-tags">
+    <span class="badge badge-pill badge-primary">Python</span>
+    <span class="badge badge-pill badge-info">LLM Orchestration</span>
+    <span class="badge badge-pill badge-secondary">FAISS</span>
+    <span class="badge badge-pill badge-success">Neural TTS</span>
+    <span class="badge badge-pill badge-warning">Streamlit</span>
+  </div>
+  <a href="https://github.com/shayaanabsar/papers-to-podcasts" target="_blank" class="btn btn-sm z-depth-0 mt-2 mt-md-0" style="border: 1px solid var(--global-divider-color);">
+    <i class="fa-brands fa-github"></i> View Repository
   </a>
 </div>
 

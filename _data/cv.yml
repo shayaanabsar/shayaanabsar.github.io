@@ -48,11 +48,11 @@ cv:
           - Designed a configuration-driven sweep harness to vary models, prompting conditions, and baselines against held-out splits with cached inference.
 
       - company: JPMorgan Chase & Co.
-        position: Software Engineering Spring Intern
+        position: Spring Into Software Engineering & Code for Good
         location: Glasgow, UK
         start_date: 2026-04
         end_date: 2026-04
-        summary: Selected for the competitive Spring Into Software Engineering programme.
+        summary: Selected for the competitive Spring Into Software Engineering programme and Code for Good hackathon.
         highlights:
           - Built a predictive fire safety system for the National Fire Chiefs Council during the Code for Good hackathon under strict delivery constraints.
           - Trained in Agile and Scrum software engineering methodologies.

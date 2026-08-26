@@ -2,14 +2,22 @@
 layout: page
 title: "Semantyl: Document Q&A System"
 description: Full-stack Retrieval-Augmented Generation (RAG) platform with multi-format ingestion and real-time query answering.
+img: assets/img/project_semantyl.svg
 importance: 2
 category: engineering
 github: https://github.com/shayaanabsar/Semantyl
 ---
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center mb-4">
-  <a href="https://github.com/shayaanabsar/Semantyl" target="_blank" class="btn btn-sm z-depth-0" style="border: 1px solid var(--global-divider-color);">
-    <i class="fa-brands fa-github"></i> View on GitHub
+  <div class="project-tags">
+    <span class="badge badge-pill badge-primary">LangChain</span>
+    <span class="badge badge-pill badge-info">RAG</span>
+    <span class="badge badge-pill badge-success">Vector Embeddings</span>
+    <span class="badge badge-pill badge-secondary">Hugging Face</span>
+    <span class="badge badge-pill badge-warning">Streamlit</span>
+  </div>
+  <a href="https://github.com/shayaanabsar/Semantyl" target="_blank" class="btn btn-sm z-depth-0 mt-2 mt-md-0" style="border: 1px solid var(--global-divider-color);">
+    <i class="fa-brands fa-github"></i> View Repository
   </a>
 </div>
 
