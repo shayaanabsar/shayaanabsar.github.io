@@ -2,7 +2,6 @@
 layout: page
 title: Neural Machine Translation for Low-Resource Languages
 description: Sequence-to-sequence transformer with custom attention mechanisms and beam search decoding for English–Cherokee translation.
-img: assets/img/project_cherokee_nmt.svg
 importance: 5
 category: research
 github: https://github.com/shayaanabsar/ch-en-nmt

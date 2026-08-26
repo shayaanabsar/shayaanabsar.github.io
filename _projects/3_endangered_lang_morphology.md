@@ -2,7 +2,6 @@
 layout: page
 title: Morphological Inflection for Endangered Languages
 description: A Byte-Level ByT5 framework incorporating cross-lingual transfer and lemma masking for low-resource morphological generation.
-img: assets/img/project_endangered_lang.svg
 importance: 3
 category: research
 github: https://github.com/shayaanabsar/code-switched-pos-tagging

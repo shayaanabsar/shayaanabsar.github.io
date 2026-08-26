@@ -2,7 +2,6 @@
 layout: page
 title: PyTorch GPT from Scratch
 description: Complete implementation of a decoder-only transformer architecture in PyTorch with custom multi-head attention and training pipeline.
-img: assets/img/project_scratch_gpt.svg
 importance: 4
 category: engineering
 github: https://github.com/shayaanabsar/gpt
