@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI & Machine Learning Researcher · BSc (Hons) AI & Computer Science @ University of Edinburgh
+subtitle: Artificial Intelligence & Computer Science · University of Edinburgh
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -16,10 +16,10 @@ latest_posts:
 
 <div class="user-intro mb-4">
   <p class="lead" style="font-size: 1.15rem; font-weight: 400; line-height: 1.7;">
-    I am an early-career Machine Learning Researcher and Engineer in my penultimate year studying for a <strong>BSc (Hons) in Artificial Intelligence and Computer Science</strong> at the <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">University of Edinburgh</a>.
+    I am a penultimate-year <strong>Artificial Intelligence and Computer Science</strong> student at the <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">University of Edinburgh</a>, on track for First Class Honours.
   </p>
   <p style="font-size: 1.05rem; line-height: 1.7;">
-    My research centers on <strong>multilingual Natural Language Processing</strong>, with a focus on cross-lingual transfer, subword-free representations for low-resource and endangered languages, and foundation model calibration.
+    My interests span <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Software Engineering</strong>—combining research into foundation models and language systems with hands-on engineering and building end-to-end applications.
   </p>
 </div>
 
@@ -49,17 +49,17 @@ latest_posts:
 
 ---
 
-### <i class="fa-solid fa-flask" style="margin-right: 0.4rem; color: var(--global-theme-color);"></i> Research Focus
+### <i class="fa-solid fa-layer-group" style="margin-right: 0.4rem; color: var(--global-theme-color);"></i> Focus &amp; Interests
 
-- **Low-Resource &amp; Endangered Languages**: Developing tokenization-free, byte-level architectures (**ByT5**) and cross-lingual transfer regimens to serve and preserve underrepresented languages (Quechua, Northern Sámi, Cherokee).
-- **Code-Switching &amp; Linguistic Inclusivity**: Quantifying intra-sentential language switching (introducing the **S-Index**) and fine-tuning cross-lingual LLMs for mixed-language contexts.
-- **Model Evaluation &amp; Calibration**: Benchmarking foundation models on real-world reasoning tasks and dissecting confidence calibration versus raw decision accuracy.
+- **Natural Language Processing**: Cross-lingual transfer, multilingual representation learning, and language model fine-tuning.
+- **Foundation Models &amp; Evaluation**: Benchmarking reasoning capabilities, chain-of-thought analysis, and decision calibration in real-world domains.
+- **Applied Machine Learning &amp; Systems**: Developing full-stack AI applications, retrieval-augmented generation (RAG) pipelines, and scalable software tools.
 
 <div class="my-3">
-  <span class="badge badge-pill badge-primary">ByT5</span>
-  <span class="badge badge-pill badge-info">Cross-Lingual Transfer</span>
-  <span class="badge badge-pill badge-secondary">Code-Switching (S-Index)</span>
-  <span class="badge badge-pill badge-success">Model Calibration</span>
+  <span class="badge badge-pill badge-primary">Machine Learning</span>
+  <span class="badge badge-pill badge-info">Natural Language Processing</span>
+  <span class="badge badge-pill badge-secondary">PyTorch</span>
+  <span class="badge badge-pill badge-success">Model Evaluation</span>
   <span class="badge badge-pill badge-warning">RAG Systems</span>
 </div>
 
