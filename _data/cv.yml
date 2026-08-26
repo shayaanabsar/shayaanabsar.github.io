@@ -47,16 +47,6 @@ cv:
           - Demonstrated that chain-of-thought prompting improved model calibration rather than raw decision accuracy.
           - Designed a configuration-driven sweep harness to vary models, prompting conditions, and baselines against held-out splits with cached inference.
 
-      - company: JPMorgan Chase & Co.
-        position: Spring Into Software Engineering & Code for Good
-        location: Glasgow, UK
-        start_date: 2026-04
-        end_date: 2026-04
-        summary: Selected for the competitive Spring Into Software Engineering programme and Code for Good hackathon.
-        highlights:
-          - Built a predictive fire safety system for the National Fire Chiefs Council during the Code for Good hackathon under strict delivery constraints.
-          - Trained in Agile and Scrum software engineering methodologies.
-
       - company: University of Edinburgh Business School
         position: Research Assistant in Natural Language Processing
         location: Edinburgh, UK
@@ -68,24 +58,19 @@ cv:
           - Extended Sauttner et al. (2023) methodology for climate bigram identification using transformer-based models.
           - Trained and evaluated classification models (Naïve Bayes, Random Forest, Logistic Regression) for thematic detection.
 
-    Volunteer:
-      - company: EdinburghAI
-        position: NLP Lead & Committee Member
-        location: Edinburgh, UK
-        start_date: 2024-07
-        end_date: Present
-        summary: University AI Society with 500+ student members.
+      - company: JPMorgan Chase & Co.
+        position: Spring Into Software Engineering & Code for Good
+        location: Glasgow, UK
+        start_date: 2026-04
+        end_date: 2026-04
+        summary: Selected for the competitive Spring Into Software Engineering programme and Code for Good hackathon.
         highlights:
-          - Organize and lead technical workshops on machine learning and natural language processing.
-          - Coordinate hands-on collaborative coding projects helping members build practical ML applications.
+          - Built a predictive fire safety system for the National Fire Chiefs Council during the Code for Good hackathon under strict delivery constraints.
+          - Trained in Agile and Scrum software engineering methodologies.
 
-      - company: School of Informatics Rugby
-        position: Diversity Officer
-        location: Edinburgh, UK
-        start_date: 2026-01
-        end_date: Present
-        highlights:
-          - Support club welfare, inclusivity initiatives, and team representation across the university.
+    Extracurricular Activities:
+      - bullet: "**NLP Lead & Committee Member**, [EdinburghAI](https://edinburghai.org/) *(2024 – Present)*: Direct technical workshops in machine learning & NLP, and coordinate hands-on collaborative coding projects helping members build end-to-end ML applications for a 500+ member university student community."
+      - bullet: "**Diversity Officer**, School of Informatics Rugby *(2026 – Present)*: Support club welfare, inclusivity initiatives, and team representation across the university."
 
     Projects:
       - name: Papers-to-Podcasts
